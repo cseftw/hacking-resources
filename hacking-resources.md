@@ -3,23 +3,23 @@ Many people ask and look for resources to learn and start hacking so i thought t
 ## Basics To Learn Before hacking
 
 ### Computing Windows and Linux 
--> https://www.professormesser.com/free-a-plus-training/220-1101/220-1101-video/220-1101-training-course/
--> https://www.professormesser.com/free-a-plus-training/220-1102/220-1102-video/220-1102-training-course/
--> https://linuxjourney.
--> https://linux.die.net
--> https://overthewire.org/wargames/bandit/
+- https://www.professormesser.com/free-a-plus-training/220-1101/220-1101-video/220-1101-training-course/
+- https://www.professormesser.com/free-a-plus-training/220-1102/220-1102-video/220-1102-training-course/
+- https://linuxjourney.
+- https://linux.die.net
+- https://overthewire.org/wargames/bandit/
 
 ## Networking 
--> https://www.professormesser.com/network-plus/n10-008/n10-008-video/n10-008-training-course/
+- https://www.professormesser.com/network-plus/n10-008/n10-008-video/n10-008-training-course/
 
 ## Basics Security 
--> https://www.professormesser.com/security-plus/sy0-601/sy0-601-video/sy0-601-comptia-security-plus-course/
--> https://overthewire.org/wargames/natas/
+- https://www.professormesser.com/security-plus/sy0-601/sy0-601-video/sy0-601-comptia-security-plus-course/
+- https://overthewire.org/wargames/natas/
 
 ## Scripting 
--> https://learn.microsoft.com/en-us/training/modules/script-with-powershell/
--> https://www.freecodecamp.org/news/shell-scripting-crash-course-how-to-write-bash-scripts-in-linux/
--> https://www.codecademy.com/learn/learn-python-3 
+- https://learn.microsoft.com/en-us/training/modules/script-with-powershell/
+- https://www.freecodecamp.org/news/shell-scripting-crash-course-how-to-write-bash-scripts-in-linux/
+- https://www.codecademy.com/learn/learn-python-3 
 
 ## Other awesome YouTube playlists : 
 - https://youtube.com/playlist?list=PLcUid3OP_4OV46dBG6R2AvV_-QyB61WRH&si=bco67K53WtsyU9X- (For linux) 
